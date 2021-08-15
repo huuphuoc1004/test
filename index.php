@@ -1,4 +1,4 @@
-<?php ádsadasda
+<?php ádsadasda nam óc chó
 
 use Illuminate\Contracts\Http\Kernel;
 use Illuminate\Http\Request;
