@@ -1,0 +1,54 @@
+				B1: 	
+					R' U' R U R'
+ 					M2 D2 M2
+
+				B2: 	R U R' 		: VIÊN TRẮNG BÊN PHẢI
+					R U2 R' U' 	: VIÊN TRẮNG Ở TRÊN
+					U R U' R'	: VIÊN TRẮNG Ở TRƯỚC
+		asdasdasdasdasdas
+				B3: 
+					ĐI QUA PHẢI: U R U' R' F R' F' R
+					ĐI QUA TRÁI: U' L' U L F' L F L'      
+			
+				B4: 
+					Chữ L: 	 	F U R U' R' F'  màu vàng ở trên
+					Hàng dọc: 	F R U R' U' F'  màu vàng nằm trên và để đường thẳng ngang
+
+					TH đặc biệt: 4x4
+						(rR)2 B2 U2 lL U2 (rR)' U2 rR U2 F2 rR F2 (lL)' B2 (rR)2
+				
+				B5: 
+						3 VIÊN NẰM BÊN PHẢI: R U R' U R U2 R'
+					
+						2 viên nằm chéo: Bỏ viên vàng lui nằm sau bên phải
+							R' F' L' F R F' L F
+						2 viên đối diện: Bỏ viên vàng trước mặt bên phải
+							R' F' L F R F' L' F
+						4 viên nằm đối diện nhau.
+							R U ( U R' U' R)x2 U' R'
+						4 viên nằm KHÔNG đối diện nhau.
+							R U2 R2 U' R2 U' R2 U2 R  
+
+				B6:	R U R' F' R U R' U' R' F R2 U' R'	: chọn mặt có 2 viên trùng màu rồi làm đến khi nào 
+									   		có 3 màu trùng nhau. Sau đó qua phải làm như trên.
+					R U' R U R U R U' R' U' R2     	 	: xoay cho trùng rồi chọn màu ở giữa.
+
+
+				Tạo cạnh 4x4: 			dD (RUR' FR'F'R) (dD)'
+				TH đặc biệt: 			r2 U2 r2 Uw2 r2 u2
+
+				Bên trái/phải khác màu : 3
+				Bên trái cùng màu      : 1
+
+
+ 
+MAIL_MAILER=smtp
+MAIL_HOST=smtp.mailtrap.io
+MAIL_PORT=2525
+MAIL_USERNAME=null
+MAIL_PASSWORD=null
+MAIL_ENCRYPTION=null
+MAIL_FROM_ADDRESS=null
+MAIL_FROM_NAME="${APP_NAME}"
+
+VXPVIZ-DQW6KV-IIEYFY-P8CF2Q
