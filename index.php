@@ -1,5 +1,5 @@
 
-<?php ádsadasda nam óc chó asdasdasd
+<?php
 
 
 use Illuminate\Contracts\Http\Kernel;
